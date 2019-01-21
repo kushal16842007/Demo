@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+
+
+
+    <!--Parameter for Registration Page-->
+    <string name="hint_email">Email Address</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_mobilenumber">Mobile Number</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_male">Male</string>
+    <string name="hint_female">Female</string>
+    <string name="hint_hobbie">Hobbies</string>
+    <string name="hint_cricket">Cricket</string>
+    <string name="hint_football">FootBall</string>
+    <string name="hint_study">Study</string>
+    <string name="hint_traveling">traveling</string>
+
+    <string name="switch_btn">Online</string>
+    <string name="describtion">Describtion</string>
+
+    <!--Parameter for Login Page-->
+    <string name="hint_username">User Name</string>
+    <string name="hint_register">Register</string>
+    <string name="hint_login">Login</string>
+    <string name="blank">  </string>
+    <string name="name_email">Name or Email</string>
+    <string name="sign_up">Sign Up</string>
+
+
+    <string name="title_home_page">Home Page</string>
+    <string name="title_details">DETAILS</string>
+    <string name="title_register">REGISTER</string>
+
+    <string name="msg_userName">Please Enter User Name</string>
+    <string name="msg_password">Please Enter Password</string>
+    <string name="msg_login">you are login</string>
+
+    <string name="btn_register">Register</string>
+
+    <string name="txtView_Already_User">Already User </string>
+
+    <string name="underLine_login"><u>Login</u></string>
+    <string name="underLine_signup"><u>SingUp</u></string>
+</resources>
